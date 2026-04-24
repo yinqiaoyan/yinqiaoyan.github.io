@@ -15,6 +15,6 @@ redirect_from:
 
 - My research interests focus on Bayesian statistics, nonparametric Bayes, bioinformatics, spatial transcriptomics, multi-omics integration, and statistical computing.
 
-## Recent News
+# Recent News
 
 - **Apr 2026.** I updated my academic homepage.
