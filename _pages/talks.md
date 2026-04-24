@@ -36,7 +36,6 @@ author_profile: true
 
 - (Invited talk) "Bayesian Integrative Region Segmentation in Spatially Resolved Transcriptomic Studies", ICSA 2023 China Conference, Chengdu, Sichuan, China, 07/2023
 
-- (Contributed talk) "Bayesian Integrative Region Segmentation in Spatially Resolved Transcriptomic Studies", 24th Beijing-Tianjin-Hebei Young Scholar Probability and Statistics Conference, Tsinghua University, Beijing, China, 06/2023
-
-  **Won the Zhong Jiaqing Outstanding Paper Award**
+- (Contributed talk) "Bayesian Integrative Region Segmentation in Spatially Resolved Transcriptomic Studies", 24th Beijing-Tianjin-Hebei Young Scholar Probability and Statistics Conference, Tsinghua University, Beijing, China, 06/2023<br>
+**Won the Zhong Jiaqing Outstanding Paper Award**
 
