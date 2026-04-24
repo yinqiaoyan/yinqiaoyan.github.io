@@ -15,7 +15,10 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
+    
+  - title: "People"
+    url: /people/
 
   - title: "Teaching"
     url: /teaching/    
