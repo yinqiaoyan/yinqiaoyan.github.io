@@ -41,3 +41,13 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Keep the footer below both the main content and the left sidebar */
+#main {
+  display: flow-root;
+  clear: both;
+}
+
+.page__footer {
+  clear: both;
+}
