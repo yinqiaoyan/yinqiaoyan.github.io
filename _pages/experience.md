@@ -8,7 +8,6 @@ author_profile: true
 
 - Assistant Professor, Beijing University of Technology, Beijing, China (2025.07 - present)
 - Postdoctoral Scholar, Beijing University of Technology, Beijing, China (2024.07 - present)<br>Working with [Prof. Zhongzhan Zhang](https://msm.bjut.edu.cn/info/1094/2658.htm)
-
 - Visiting Scholar, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China (2025.07 - 2025.09)<br>Working with [Prof. Hao Wu](https://www.haowulab.org/)
 
 # Education
