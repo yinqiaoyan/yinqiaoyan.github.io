@@ -21,7 +21,10 @@ main:
     url: /people/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
+    
+  - title: "Contact"
+    url: /contact/
     
   # - title: "Portfolio"
   #   url: /portfolio/
