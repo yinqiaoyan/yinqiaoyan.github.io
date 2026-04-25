@@ -42,12 +42,13 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Keep the footer below both the main content and the left sidebar */
-#main {
-  display: flow-root;
-  clear: both;
-}
+/* Keep footer below the left sidebar */
+@media (min-width: 64em) {
+  #main {
+    min-height: 780px;
+  }
 
-.page__footer {
-  clear: both;
+  .page__footer {
+    clear: both;
+  }
 }
