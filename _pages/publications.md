@@ -6,7 +6,7 @@ author_profile: true
 
 (\* indicates the corresponding author(s))
 
-<ol reversed start="7">
+<ol reversed>
   <li>
     Yizhou Wang, Song Mao, ..., <strong>Yinqiao Yan</strong>, ..., Xuming Hu, Botian Shi (2026). Investigating redundancy in multimodal large language models with multiple vision encoders. <em>in Proceedings of the 14th International Conference on Learning Representations</em>.
   </li>
