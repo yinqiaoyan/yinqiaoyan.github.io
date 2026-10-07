@@ -8,7 +8,7 @@ author_profile: true
 
 <ol reversed>
 	<li>
-    Zihui Yuan$^{\#}$, <strong>Yinqiao Yan</strong>$^{\#}$, Xiangyu Luo* (2026). Geometry-aware Bayesian detection of spatially variable genes in three dimensions. <em>Statistical Learning and Data Science</em>, 100028.
+    Zihui Yuan<sup>#</sup>, <strong>Yinqiao Yan</strong><sup>#</sup>, Xiangyu Luo* (2026). Geometry-aware Bayesian detection of spatially variable genes in three dimensions. <em>Statistical Learning and Data Science</em>, 100028.
   </li>
   <li>
     Yizhou Wang, Song Mao, ..., <strong>Yinqiao Yan</strong>, ..., Xuming Hu, Botian Shi (2026). Investigating redundancy in multimodal large language models with multiple vision encoders. <em>in Proceedings of the 14th International Conference on Learning Representations</em>.
