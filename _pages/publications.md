@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-(\* indicates the corresponding author(s))
+(\* indicates the corresponding author(s), <sup>#</sup> means first authors with equal contribution.)
 
 <ol reversed>
 	<li>
