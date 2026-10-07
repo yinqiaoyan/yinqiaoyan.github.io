@@ -10,6 +10,9 @@ author_profile: true
 
 # Courses for Undergraduate Students
 
+- Probability Theory and Mathematical Statistics (Engineering), BJUT, Fall 2026
+- Frontiers in Academic Research (Statistics), BJUT, Fall 2026
+- Research Training, BJUT, Fall 2026
 - Guidelines for Academic Writing, BJUT, Fall 2025
 
 # Teaching Assistant
